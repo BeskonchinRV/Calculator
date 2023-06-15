@@ -1,0 +1,13 @@
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\bin\Debug\Calculator.exe.config
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\bin\Debug\Calculator.exe
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\bin\Debug\Calculator.pdb
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\bin\Debug\lkt-US\Calculator.resources.dll
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.Калькулятор.resources
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.Калькулятор.lkt-US.resources
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\lkt-US\Calculator.resources.dll
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.exe
+C:\Users\BeskonchinRV\Source\Repos\Calculetor\obj\Debug\Calculator.pdb
